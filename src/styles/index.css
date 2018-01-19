@@ -1,0 +1,103 @@
+body, html{
+  overflow:hidden;
+  height: 100%;
+  background: url("../assets/Image1.png") no-repeat;
+  background-position: 100% 70%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.navbar-nav-right{
+  ;
+}
+
+.title {
+  top: 5vmin;
+  left: 3vmin;
+  color: white;
+}
+
+#tab-title {
+  white-space: pre-line;
+  font-family: "Georgia";
+}
+
+#main-text{
+  height: 28vh;
+  font-size: 4vmin;
+  font-family: "Georgia";
+  white-space: pre-line;
+}
+
+#left-scroll-icon {
+  text-align: right;
+}
+#right-scroll-icon {
+}
+
+.scroll-icon {
+    color: white;
+    font-size: 40px;
+    top: 30vh;
+    text-align: center;
+    cursor:pointer;
+}
+
+.no-padding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.icon-container {
+  text-align: center;
+  position: absolute;
+  bottom: 10px;
+}
+
+.icon {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.icon img{
+  width: 40px;
+  height: 40px;
+}
+
+.translucent {
+  opacity: 0.5;
+}
+
+.navbar-nav>li, .navbar-nav {
+  float: left !important;
+}
+
+.navbar-inverse {
+  background: transparent;
+  border: none;
+}
+
+#resume-tab a {
+  color: white; !important
+}
+
+#movingBackground > div{
+  font-size: 8px;
+  color: white;
+  top: 50%;
+}
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}

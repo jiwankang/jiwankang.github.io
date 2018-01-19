@@ -1,0 +1,5 @@
+Workspace (Angular 2, Node.js, JS, HTML, Shell) - Display organizer with GUI
+Twilio Script (PHP, SQL, Twilio API) - Phone number database manager, made for work
+The Launcher (Android, Java) - Lockscreen module for gesture app access
+Sensor Movement 2048 (Android, Java) - 2048 with sensor controls, made for class
+Github below for more details.
