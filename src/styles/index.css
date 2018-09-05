@@ -88,6 +88,8 @@ body, html{
   color: white;
   top: 50%;
 }
+
+
 ::-webkit-scrollbar {
     width: 8px;
 }
